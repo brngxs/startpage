@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
@@ -62,7 +62,7 @@ const default_config = {
           links: [
             {
               name: "github",
-              url: "https://github.com/ashish0kumar",
+              url: "https://github.com/brngxs",
               icon: "brand-github",
               icon_color: palette.green,
             },
@@ -85,7 +85,7 @@ const default_config = {
           links: [
             {
               name: "leetcode",
-              url: "https://leetcode.com/u/ashish0kumar/",
+              url: "https://leetcode.com/u/brngxs/",
               icon: "brand-leetcode",
               icon_color: palette.yellow,
             },
